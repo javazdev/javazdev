@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm José Antonio from Spain<br><br>- 🔭 I’m working as IT Technician<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I  watch movies and TV series</p>
+<p align="left">I'm José Antonio from Spain<br><br>- 🔭 I’m working as IT Technician<br>- 📚 I'm currently learning web developer<br>- ⚡ In my free time I  watch movies and TV series</p>
 
 ###
 
